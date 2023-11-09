@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is a Jekyll theme. You can find more infomation at [Jekyll theme](https://jekyllrb.com/docs/themes/).
+Hi,
 
-You also can find the source code for this theme at [GitHub](https://github.com/aidewoode/jekyll-theme-mint).
+I am a Software Engineer who fancies engineering everything but software.
+
+Let's build something cool together.
