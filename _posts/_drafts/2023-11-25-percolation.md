@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Content Percolation
+title: Classroom Percolation
 permalink: /percolation/
 draft: true
 ---
@@ -9,7 +9,7 @@ I manufactured the phrase. It roughly translates to "How much of it went in".
 
 Measuring what went in is the most important metric for educational content in my book. But boy, do these educators get it wrong.
 
-Having sat in classrooms/lectures almost all my life, I noticed a phenomenon that has plagued my experience throughout. The one where I "switch off" after a few minutes of any class. And if you have been even miutely self aware about your learning process, you probably know what's happening - the depth of your understanding is sinking by the minute, till it just drops off to incomprehensibility.
+Having sat in classrooms/lectures almost all my life, I noticed a phenomenon that has plagued my experience throughout. The one where I "switch off" after a few minutes of any class. And if you have been even minutely self aware about your learning process, you probably know what's happening - the depth of your understanding is sinking by the minute, till it just drops off to incomprehensibility, and you slip into daydreaming.
 
 And it continues. The more I study(or try to), the worse I think the problem is. I seem to get 
 
