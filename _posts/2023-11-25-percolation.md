@@ -23,10 +23,11 @@ What compounds my sorrow is that this isn't for a lack of trying. Everyone in th
 
 And the plague continues till this day. The more I try to learn, the worse I think my problem is. Even when I want to read books out of my own self-interest, I face immense trouble. Let's talk about the time I picked up the self help book "Deep Work"[^2]. The book is undoubtedly great. Cal Newport has embedded a few really impactful nuggets in some sections. But the process of reading it was a complete nightmare. It took me greater than 2 months to get through it, and this is when I was reading it with my friends of my book club. Almost throughout the journey, I never felt motivated to read "just another page". It was always accompanied by mild dizziness and the gnawing pain of hard things.[^3] The effort could have very easily gone to waste, because it was never entertaining or rewarding. It's a huge problem if this was the case for a *GREAT* book, especially one that I *WANTED* to read specifically.
 
-And 
-
+And oh my shame of constantly getting tired of watching course videos 
 
 All is not lost. 
+
+
 
 [^1]: It is really difficult to explain the kind of work it needs from an aspirant. The Viral Fever's Kota Factory does a phenomenal job at depicting what the median JEE aspirant's life looks like. It's available on [Netflix](https://www.netflix.com/in/title/81249783) and Season 1 is on [YouTube](https://www.youtube.com/playlist?list=PLTB0eCoUXErb7pV0Sj1hXWrxerSZX1qgh)
 [^2]: https://www.goodreads.com/book/show/25744928-deep-work
