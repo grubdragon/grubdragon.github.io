@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Classroom Percolation
+title: Textbook Percolation
 permalink: /percolation/
 draft: true
 ---
 
-I manufactured the phrase. Read it as "How much of what I studied went in". Measuring what went in is the most important metric for educational content in my book(pun intended). But boy, does the education industry get it wrong.
+I manufactured the phrase. Read it as "How much of what I studied went in". Feel free to substitute "Textbook" by its general spirit to mean any educational content. 
+
+Measuring what went in is the most important metric for educational content in my book(pun intended). But boy, does the education industry get it wrong.
 
 Having sit in classrooms/lectures almost all my life, I have noticed a phenomenon that has plagued my learning experience throughout. The one where I "switch off" after a few minutes of almost any class. And if you have been even minutely self-aware about your learning process, you probably know what I'm talking about - the depth of your understanding is sinking by the minute, till it drops off to sheer incomprehensibility, and you slip into a daydream.
 
