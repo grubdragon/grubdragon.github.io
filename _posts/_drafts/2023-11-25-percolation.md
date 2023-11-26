@@ -19,7 +19,7 @@ Over that week, the footsteps towards the academic area dwindled. At some point 
 
 What compounds my sorrow is that this isn't for a lack of trying. Many educators want to help their students discover the joy of learning; many students are begging to be shone the light of knowledge. But the spark dies anwyay, slowly and surely, on both sides. For the educators it manifests as a exhaustion of attempts - "I have no willpower left to try again". For students it shows up as sleeping in class or playing hooky.
 
-Having sit in classrooms/lectures almost all my life, I noticed a phenomenon that has plagued my learning experience throughout. The one where I "switch off" after a few minutes of almost any class. And if you have been even minutely self-aware about your learning process, you probably know what I'm talking about - the depth of your understanding is sinking by the minute, till it drops off to incomprehensibility, and you slip into a daydream.
+And the plague continues till this day. The more I try to learn, the worse I think my problem is. Even when I want to read books out of my own self-interest, I face immense trouble. Let's talk about the time I picked up the self help book "Deep Work"[^2]. The book is undoubtedly great. Cal Newport has embedded a few really impactful nuggets in some sections. But the process of reading it was a complete nightmare. It took me greater than 2 months to get through it, and this is when I was reading it with my friends of my book club. Almost throughout the journey, I never felt motivated to read "just another page". It was always accompanied by mild dizziness and the gnawing pain of hard things.[^3] The effort could have very easily gone to waste, because it was never entertaining or rewarding. It's a huge problem if this was the case for a *GREAT* book, especially one that I *WANTED* to read specifically.
 
 Sad part is, this isn't for a lack of trying. Many educators are looking to help students discover the joy of learning; many students are looking to be a sponge and extract the most out of the lesson. But the spark dies, slowly and surely, on both sides. For the educators it manifests as a exhaustion of attempts - "I have no willpower left to try again". For students its as sleeping in class or sleeping in, missing class.
 
@@ -33,3 +33,6 @@ And it continues. The more I try to learn, the worse I think the problem is. Eve
 
 All is not lost. 
 
+[^1]: It is really difficult to explain the kind of work it needs from an aspirant. The Viral Fever's Kota Factory does a phenomenal job at depicting what the median JEE aspirant's life looks like. It's available on [Netflix](https://www.netflix.com/in/title/81249783) and Season 1 is on [YouTube](https://www.youtube.com/playlist?list=PLTB0eCoUXErb7pV0Sj1hXWrxerSZX1qgh)
+[^2]: https://www.goodreads.com/book/show/25744928-deep-work
+[^3]: Wrote about this in my earlier blog post, ["Why I Write"]({{ 'writing' | relative_url }})
