@@ -30,6 +30,6 @@ The enemy we face is not a joke; his moves are precise and data-driven. He knows
 
 
 [^1]: It is really difficult to explain the kind of work it needs from an aspirant. The Viral Fever's Kota Factory does a phenomenal job at depicting what the median JEE aspirant's life looks like. It's available on [Netflix](https://www.netflix.com/in/title/81249783) and Season 1 is on [YouTube](https://www.youtube.com/playlist?list=PLTB0eCoUXErb7pV0Sj1hXWrxerSZX1qgh)
-[^2]: https://www.goodreads.com/book/show/25744928-deep-work
+[^2]: <https://www.goodreads.com/book/show/25744928-deep-work>
 [^3]: Wrote about this in my earlier blog post, ["Why I Write"]({{ 'writing' | relative_url }})
 [^4]: Doomscrolling: The habit of continuously scrolling through negative or distressing content online, often on social media, contributing to heightened anxiety and stress.
