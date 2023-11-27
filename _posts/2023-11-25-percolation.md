@@ -27,6 +27,7 @@ And oh, the shame of being trapped in a vicious cycle of watching course videos,
 
 The enemy we face is not a joke; his moves are precise and data-driven. He knows more about us than we ever about him. He holds us in a chokehold so tight, the faint of heart have no hope of freedom. But all is not lost young Padawan. 
 
+< TBD: SAVE THE READER >
 
 
 [^1]: It is really difficult to explain the kind of work it needs from an aspirant. The Viral Fever's Kota Factory does a phenomenal job at depicting what the median JEE aspirant's life looks like. It's available on [Netflix](https://www.netflix.com/in/title/81249783) and Season 1 is on [YouTube](https://www.youtube.com/playlist?list=PLTB0eCoUXErb7pV0Sj1hXWrxerSZX1qgh)
