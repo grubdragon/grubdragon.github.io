@@ -1,0 +1,26 @@
+<div class="max-w-md mx-auto mt-10 p-6 bg-white rounded-md shadow-md">
+
+  <h1 class="text-2xl font-semibold mb-4">Stay Up to Date with Our Blog</h1>
+
+  <!-- Email Subscription Form -->
+  <form id="emailForm" class="flex items-center space-x-2">
+      <input type="email" id="email" name="email" class="border p-2 rounded-md" placeholder="Your Email" required>
+      <button type="button" onclick="submitForm()" class="bg-blue-500 text-white px-4 py-2 rounded-md">Subscribe</button>
+  </form>
+
+  <!-- Prompt for Staying Up to Date -->
+  <p class="mt-4 text-gray-600 text-sm">Subscribe to receive the latest blog posts and updates.</p>
+
+</div>
+
+<script>
+  function submitForm() {
+      // Get the email value
+      var email = document.getElementById('email').value;
+
+      // Open the URL with the user's email
+      window.location.href = `https://docs.google.com/forms/d/e/1FAIpQLSeq_qlwqRbQKuMzUI7hJ_3lK3WqPdIL0_EscHfSw4GzsdB6_Q/formResponse?usp=pp_url&entry.274326113=${email}`;
+  }
+</script>
+
+
