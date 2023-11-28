@@ -22,6 +22,14 @@
       {% endif %}
     {% endif %}
 
+    {% if site.email %}
+      <li class='footer__item'>
+        <a href='mailto:{{ site.email }}' title='email'>
+          {% include icon.html icon='email' %}
+        </a>
+      </li>
+    {% endif %}
+
     {% if site.github_username %}
       <li class='footer__item'>
         <a href='https://github.com/{{ site.github_username }}' title='github'>
