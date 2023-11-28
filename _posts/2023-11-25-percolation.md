@@ -5,7 +5,7 @@ permalink: /percolation/
 draft: true
 ---
 
-> I am coining the phrase. Read it as "How much of what I studied went in". Feel free to substitute "Textbook" by its general spirit to mean any educational medium, not limited to coursework.
+> I am coining the term. Read it as "How much of what I studied went in". Feel free to substitute "Textbook" by its general spirit to mean any educational medium, not limited to coursework.
 
 Measuring what went in is the most important metric for educational content in my book(pun intended). But boy, does the industry get it wrong.
 
