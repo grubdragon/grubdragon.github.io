@@ -15,7 +15,7 @@ There are two important observations here for a startup: the power of experiment
 
 The experimentation part is the kicker. Something remarkable happens when you conduct experiments. If you are able to optimize the outcome of an important problem for yourself, the experiment concludes and a new habit is formed. That's where a startup gets in - optimizes *some* outcome for a customer to become the product of choice and create a sticky habit out of it. 
 
-The beauty of empirical evidence is really that its exceptionally difficult to refute it, even when you're presented with robust proof against it. I believe it's a flaw in the human experience - what you see has exceedingly more impact than what you read. In product sense[^prodsense], it implies showing empirical results fast.
+The importance of empirical evidence is that its exceptionally difficult to refute, even when you're presented with robust proof against it. I believe it's a flaw in the human experience - what you see has exceedingly more impact than what you read. In product sense[^prodsense], it implies showing empirical results fast.
 
 So far, knowing what you're optimizing has been the lofty goal. But, if you aren't able to get some wins fast for your customer, consider your goal difficult.
 
