@@ -5,7 +5,7 @@ permalink: /empirical/
 draft: true
 ---
 
-Pattern matching is the bread and butter of life. We are running mini science experiments everyday and using their inferences hundreds of times!
+Pattern matching is the bread and butter of life. We are running mini science experiments everyday; we discover patterns, we play around with the variables and create an optimal outcome for ourselves. What's more, we are using hundreds of inferences emerging out of these experiments everyday!
 
 Think about the times you've observed something and adjusted your protocols. Maybe its your shower, whose knob setting you probably memorized to find that optimum temperature for a relaxing bath. Or its the times you keep your window open to get the cooling right. Could be avoiding a certain vegetable because it seems to give you tummy trouble. It's all pattern matching.
 
