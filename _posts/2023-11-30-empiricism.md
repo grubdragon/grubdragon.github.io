@@ -17,7 +17,7 @@ There are two important lessons here for a startup: the power of human empiricis
 
 The empiricism part is the kicker, because when you conduct experiments and observe results, you create something remarkable for yourself. If you're able to optimize the outcome of an important problem for yourself, the experiment concludes and a new habit is formed[^habit]. That's where a startup gets in - optimizes *some* objective for a customer to become the product of choice and creates a sticky habit out of it. 
 
-The importance of empirical evidence is that its exceptionally difficult to refute, even when you're presented with robust proof against it. I believe it's a flaw in the human experience - what you see has exceedingly more impact than what you read. In product sense[^prodsense], it implies showing empirical results fast to the user. This keeps the customer coming back for the complete(and hopefully important) offering.
+The importance of empirical evidence is that its exceptionally difficult to refute, even when you're presented with damning proof against it. I believe it's a flaw in the human experience - what you see has exceedingly more impact than what you read. In product sense[^prodsense], it implies showing empirical results fast to the user. This keeps the customer coming back for the complete(and hopefully super important) offering.
 
 Kevin Hale has a talk on "How to Evaluate Startup Ideas"[^KH], which covers habit formation briefly. He explains that the three prongs of habit formation are
 - **Motivation** ⇒ I have this crazy burning problem
