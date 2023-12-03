@@ -13,13 +13,13 @@ Empirical evidence is so important, we have a whole field of study based solely 
 
 In fact I believe empiricism forms the foundation for traditional Indian medicine. Pattern matching was probably done in two ways: to identify the disease through the observed symptoms and to discover the cure via accumulated herbal wisdom. Consequently, stories and *nuskas* were woven around those patterns to create a legend, which was passed down generations. Now so many aged indians swear by ayurveda, even in the face of modern medicine, which is based on robust statistical inference.
 
-There are two important lessons here for a startup: the power of human empiricism and stories. Lots of brands have survived because of their stories and the internet has enough podcasts on how a brand was made by its stories. But talking about this is not my cup of tea.  
+There are two important lessons here for a startup: the power of human empiricism and stories. Lots of brands have survived because of their stories and the internet has enough podcasts on how a brand was made by its stories. But talking about this is not my cup of tea.
 
-The empiricism part is the kicker, because when you conduct experiments and observe results, you create something remarkable for yourself. If you're able to optimize the outcome of an important problem for yourself, the experiment concludes and a new habit is formed[^habit]. That's where a startup gets in - optimizes *some* objective for a customer to become the product of choice and creates a sticky habit out of it. 
+The empiricism part is the kicker, because when you conduct experiments and observe results, you create something remarkable for yourself: you create personal empirical evidence. If you're able to optimize the outcome of an important problem for yourself, the experiment concludes and a new habit is formed[^habit], which encapsulates learnings from your empirical evidence. That's where a startup gets in - optimizes *some* objective for a customer to become the product of choice and creates a sticky habit out of it. 
 
-The importance of empirical evidence is that its exceptionally difficult to refute, even when you're presented with damning proof against it. I believe it's a flaw in the human experience - what you see has exceedingly more impact than what you read. In product sense[^prodsense], it implies showing some results fast to the user. This creates personal empirical evidence for customer which creates stickiness and keeps him motivated to stick around for the complete(and hopefully super important) offering.
+The importance of empirical evidence is that its exceptionally difficult to refute, even when you're presented with damning proof against it. I believe it's a flaw in the human experience - what you see has exceedingly more impact than what you read. In product sense[^prodsense], it implies showing some results fast to the user. This keeps the customer motivated to stick around for the complete(and hopefully super important) offering.
 
-Kevin Hale has a talk on "How to Evaluate Startup Ideas"[^KH], which covers habit formation briefly. He explains that the three prongs of habit formation are
+Kevin Hale has a talk on ("How to Evaluate Startup Ideas")[https://www.youtube.com/watch?v=DOtCl5PU8F0], which covers habit formation briefly. He explains that the three prongs of habit formation are
 - **Motivation** ⇒ I have this crazy burning problem
 - **Ability** ⇒ I can see a solution to my problem in this startup
 - **Trigger** ⇒ Thing that get’s them to realize OH! I need to solve it with your startup
@@ -29,4 +29,3 @@ So far, knowing what you're optimizing has been the lofty goal. But, if you aren
 
 [^habit]: Habit formation is only weakly positively correlated with the importance of the problem in my experience. You fix the , even if its not that big of a deal right?
 [^prodsense]: I hate this word.
-[^KH]: (Kevin Hale - How to Evaluate Startup Ideas)[https://www.youtube.com/watch?v=DOtCl5PU8F0] on YouTube.
