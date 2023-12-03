@@ -13,7 +13,7 @@ Empirical evidence is so important, we have a whole field of study based solely 
 
 In fact I believe empiricism forms the foundation for traditional Indian medicine. Pattern matching was probably done in two ways: to identify the disease through the observed symptoms and to discover the cure via accumulated herbal wisdom. Consequently, stories and *nuskas* were woven around those patterns to create a legend, which was passed down generations. Now so many aged indians swear by ayurveda, even in the face of modern medicine, which is based on robust statistical inference.
 
-There are two important lessons here for a startup: the power of human empiricism and stories. Lots of brands have survived because of their stories and the internet has enough podcasts on how a brand was made by its stories. But talking about this is not my cup of tea.
+There are two important lessons here for a startup: the power of human empiricism and stories. Lots of brands have survived because of their stories and the internet has enough podcasts on how a brand image was crafted by its stories. But talking about this is not my cup of tea.
 
 The empiricism part is the kicker, because when you conduct experiments and observe results, you create something remarkable for yourself: you create personal empirical evidence. If you're able to optimize the outcome of an important problem for yourself, the experiment concludes and a new habit is formed[^habit], which encapsulates learnings from your empirical evidence. That's where a startup gets in - optimizes *some* objective for a customer to become the product of choice and creates a sticky habit out of it. 
 
