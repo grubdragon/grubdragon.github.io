@@ -5,7 +5,7 @@ permalink: /empiricism/
 draft: true
 ---
 
-Pattern matching is the bread and butter of life. We are all running mini science experiments based on our empirical evidence everyday; we discover patterns, play around with the variables and create an optimal outcome for ourselves. What's more, we are using hundreds of inferences emerging out of these experiments everyday!
+Pattern matching is the bread and butter of life. We are all running mini science experiments based on our lived experiences; we discover patterns, play around with the variables and create an optimal outcome for ourselves. What's more, we are using hundreds of inferences emerging out of these experiments everyday!
 
 Think about the times you've observed something and adjusted your protocols. Maybe its your shower knob, whose setting you've probably memorized to achieve that optimum temperature for a relaxing bath. Or its the times you keep your window open to get the cooling just right. It could be avoiding a certain vegetable because it seems to give you tummy trouble. It's all about modelling the observed patterns and reshaping your behaviour.
 
