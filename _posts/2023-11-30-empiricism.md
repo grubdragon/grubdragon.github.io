@@ -17,7 +17,7 @@ There are two important lessons here for a startup: the power of human empiricis
 
 The empiricism part is the kicker, because when you conduct experiments and observe results, you create something remarkable for yourself. If you're able to optimize the outcome of an important problem for yourself, the experiment concludes and a new habit is formed[^habit]. That's where a startup gets in - optimizes *some* objective for a customer to become the product of choice and creates a sticky habit out of it. 
 
-The importance of empirical evidence is that its exceptionally difficult to refute, even when you're presented with damning proof against it. I believe it's a flaw in the human experience - what you see has exceedingly more impact than what you read. In product sense[^prodsense], it implies showing some results fast to the user. This creates personal empirical evidence for customer and keeps him coming back for the complete(and hopefully super important) offering.
+The importance of empirical evidence is that its exceptionally difficult to refute, even when you're presented with damning proof against it. I believe it's a flaw in the human experience - what you see has exceedingly more impact than what you read. In product sense[^prodsense], it implies showing some results fast to the user. This creates personal empirical evidence for customer which creates stickiness and keeps him motivated to stick around for the complete(and hopefully super important) offering.
 
 Kevin Hale has a talk on "How to Evaluate Startup Ideas"[^KH], which covers habit formation briefly. He explains that the three prongs of habit formation are
 - **Motivation** ⇒ I have this crazy burning problem
@@ -28,6 +28,6 @@ In this framework, empirical evidence is part of the trigger because it makes th
 So far, knowing what you're optimizing has been the lofty goal. But, if you aren't able to get some wins fast for your customer, consider your goal difficult. And notice how I tricked you into thinking I loathe stories, but I wrapped up the importance of empirical evidence in my own ;).
 
 [^stories]: Lots of brands survived because of their stories, but talking about this is not my cup of tea.
-[^habit]: Habit formation is only weakly positively correlated with the importance of the problem. You fix a drippy faucet, even if its not that a big deal right?
+[^habit]: Habit formation is only weakly positively correlated with the importance of the problem in my experience. You fix the , even if its not that big of a deal right?
 [^prodsense]: I hate this word.
 [^KH]: (Kevin Hale - How to Evaluate Startup Ideas)[https://www.youtube.com/watch?v=DOtCl5PU8F0] on YouTube.
