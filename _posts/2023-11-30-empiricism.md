@@ -13,9 +13,7 @@ Think about the times you've observed something and adjusted your protocols. May
 
 The fuel to the fire that is empirical evidence, is a backing story. Stories are the basis for how homo sapiens ended up coordinating in large numbers[^harari], so no wonder they play a huge part in strengthening one's convictions. Wrap your empirical evidence up in an impactful tale, and you are well on your way to influence mammoth crowds. A great, believable story which fits at least some of the facts can immensely reinforce a belief. At that point, that story could be treated as dogma, which makes the evidence close to irrefutable, and any lemmas coming out of it now become axioms.
 
-> That's what you do. You sell a big lie. You wrap it up in a truth to make it palatable.
->
-> &mdash; Sherlock
+> That's what you do. You sell a big lie. You wrap it up in a truth to make it palatable.  &mdash; Sherlock
 
 In fact I believe empiricism forms the foundation for traditional Indian medicine. Pattern matching was probably done in two ways: to identify the disease through the observed symptoms and to discover the cure via accumulated herbal wisdom. Consequently, stories and *nuskas* were woven around those patterns to create a legend, which was passed down generations. Now so many aged indians swear by ayurveda, even in the face of modern medicine, which is based on a far stronger proof of robust statistical inference.
 
