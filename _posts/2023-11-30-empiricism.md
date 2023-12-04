@@ -19,7 +19,7 @@ In fact I believe empiricism forms the foundation for traditional Indian medicin
 
 Why this is interesting to me, is that there are two important tools to wield here for a startup. And why wouldn't there be, a startup is about solving problems for other humans. If you can leverage human empiricism and create a narrative around it, it will serve you well. Lots of brands have survived due to their compelling stories and the internet has enough podcasts on how a brand image was shaped by this narrative. But talking about this is not my cup of tea.
 
-The empiricism part is the kicker for me, because when you conduct experiments and observe results, you create something remarkable for yourself: you create personal empirical evidence. If you're able to optimize the outcome of an important problem for yourself, the experiment concludes and a new habit is formed[^habit], which encapsulates learnings from your empirical evidence. That's where a startup gets in - optimizes *some* objective for a customer to become the product of choice and creates a sticky habit out of it. 
+The empiricism part is the kicker for me, because when you conduct experiments and observe results, you create something remarkable for yourself: you create personal empirical evidence. If you're able to optimize the outcome of an important problem for yourself, the experiment concludes and a new habit is formed, which encapsulates learnings from your empirical evidence. That's where a startup gets in - optimizes *some* objective for a customer to become the product of choice and creates a sticky habit out of it. 
 
 In product sense, it implies showing some results fast to the user; those results will act like the evidence you need to keep the customer motivated to stick around for the complete(and hopefully super important) offering.
 
@@ -31,6 +31,5 @@ In this framework, empirical evidence is part of the trigger because it makes th
 
 So far, knowing what you're optimizing and do it well, has been the lofty goal. But, if you aren't able to get some quick wins for your customer, how are they going to be around for the do it well part?
 
-[^habit]: Habit formation is only weakly positively correlated with the importance of the problem in my experience. You fix the , even if its not that big of a deal right?
 [^flaw]: Much like the addictiveness of gambling. (Thanks to Michael Seibel for that insight)
 [^harari]: Insights from Yuval Noah Harari's "Sapiens".
