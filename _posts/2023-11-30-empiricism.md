@@ -24,7 +24,7 @@ The empiricism part is the kicker for me, because when you conduct experiments a
 
 In product sense, it implies showing some results fast to the user; those results will act like the evidence you need to keep the customer motivated to stick around for the complete(and hopefully super important) offering.
 
-Kevin Hale has a talk on ("How to Evaluate Startup Ideas")[https://www.youtube.com/watch?v=DOtCl5PU8F0], which covers habit formation briefly. He explains that the three prongs of habit formation are
+Kevin Hale has a talk on ["How to Evaluate Startup Ideas"](https://www.youtube.com/watch?v=DOtCl5PU8F0), which covers habit formation briefly. He explains that the three prongs of habit formation are
 - **Motivation** ⇒ I have this crazy burning problem
 - **Ability** ⇒ I can see a solution to my problem in this startup
 - **Trigger** ⇒ Thing that get’s them to realize OH! I need to solve it with your startup
