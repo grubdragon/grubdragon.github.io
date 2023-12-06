@@ -31,4 +31,4 @@ In this framework, empirical evidence is part of the trigger because it makes th
 So far, knowing what you're optimizing and do it well, has been the lofty goal. But, if you aren't able to get some quick wins for your customer, how are they going to be around for the do it well part?
 
 [^flaw]: Much like the addictiveness of gambling. (Thanks to Michael Seibel for that insight)
-[^harari]: Insights from Yuval Noah Harari's "Sapiens".
+[^harari]: From Yuval Noah Harari's "Sapiens". Harari describes that Homo Sapiens won the game between early humans(comprised of *Homo neanderthalensis*, *Homo floresiensis*, etc.) by effectively coordinating in large groups through their ability to believe in shared fictions.
