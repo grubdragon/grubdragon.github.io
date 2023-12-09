@@ -1,7 +1,7 @@
 <header class='header'>
   <a class='header__title' href='{{ '/' | relative_url }}'>{{ site.title | escape }}</a>
   <nav class='header__nav'>
-    {% assign site_pages = site.pages | where_exp: 'page', 'page.is_footer != true' and page.hidden != true %}
+    {% assign site_pages = site.pages | where_exp: 'page', 'page.is_footer != true' %}
 
     {% for site_page in site_pages %}
       {% if site_page.title %}
