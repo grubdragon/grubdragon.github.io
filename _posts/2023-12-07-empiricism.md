@@ -2,7 +2,6 @@
 layout: post
 title: The Tyranny of Empirical Evidence
 permalink: /empiricism/
-draft: true
 ---
 
 Empirical evidence is a beast of a tool. It derives its power from its ability to be exceptionally difficult to renegade, even when you're presented with damning proof against it. I believe it's a flaw by design in the human experience[^flaw] - you are exceedingly more impacted by what you experience.
