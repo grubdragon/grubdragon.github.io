@@ -1,8 +1,6 @@
 <footer class='footer'>
   {% assign site_footer_pages = site.pages | where: 'is_footer', true %}
 
-  {% include email_subscription.html %}
-
   {% if site_footer_pages.size > 0 %}
     <ul class='footer__list'>
       {% for site_footer_page in site_footer_pages %}

@@ -16,5 +16,5 @@ I love chatting about product case studies with my friends - something valuable 
 
 Let's build something cool together.
 
-Love,
+Love,<br>
 Aryan.
