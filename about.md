@@ -8,7 +8,7 @@ Dear Reader,
 
 I am a Software Engineer, but I fancy applying engineering everywhere. 
 
-I really believe in the power of data to interpret life. I'm interested in the cross-pollination of engineering fields to solve the problems. 
+I really believe in the power of data to interpret life. I'm interested in the cross-pollination of engineering fields to solve problems. 
 
 I think the future of living will look like multi-storied cities with deep integration of nature. My gut on the future of work is towards hybrid - one where different people spend some months apart, then a month together - with a room in their homes optimized for working.
 
