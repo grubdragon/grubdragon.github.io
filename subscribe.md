@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Subscribe
-hidden: true
+is_footer: true
 permalink: /sub/
 ---
 
