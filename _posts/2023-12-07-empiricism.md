@@ -27,7 +27,8 @@ Kevin Hale has a talk on evaluating startup ideas[^kh], which covers habit forma
 - **Motivation** ⇒ I have this crazy burning problem
 - **Ability** ⇒ I can see a solution to my problem in this startup
 - **Trigger** ⇒ Thing that get’s them to realize OH! I need to solve it with your startup
-In this framework, empirical evidence servers as the trigger. It makes the customer realize that this is how I should solve the problem.
+
+In this framework, empirical evidence servers as the trigger. The target is the magic moment that occurs after trying the product.
 
 The other (and often talked about) advantage of leveraging empiricism is the power of word of mouth. If people have their pressing problems solved, they will love your product. In turn, they will talk about your product, and their friends will listen. This is where storied empirical evidence shines through - emotions of your friends have a tendency to colour your own.
 
