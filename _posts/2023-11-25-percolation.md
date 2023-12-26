@@ -47,9 +47,9 @@ Ideally, using courses to learn is the best, but what if none are available? Unf
 
 Sometimes, you just have to struggle with it. Do a bit. Take a break. Do a bit more.
 
-Eventually, how do you get out of this struggle? Meditate. Pick up Medito, start meditating everyday[^meditation]. Start improving your attention span. At the same time build a love for learning(and its constituents i.e. reading or watching courses). Don't necessarily start at what would be best for you - you could start at what would be entertaining, relatable and easy to watch. It could be a 10xer as well - the key is you should really care about the learning outcome. 
+Eventually, how do you get out of this struggle? Meditate. Pick up Medito, start meditating everyday[^meditation]. Start improving your attention span. At the same time build a love for learning(and its constituents i.e. reading or watching courses). Don't necessarily start at what would be best for you - you could start at what would be entertaining, relatable and easy to watch. It could be a 10xer as well - the key is you should really care about the learning outcome.
 
-Learning might be a struggle today, but nothing worth achieving was ever easy.
+In conclusion, while learning can be tough, remember that valuable achievements demand effort - you ought to embrace it. Start today - immerse yourself in a topic you love through your favorite medium. The rewards of continuous learning await, so dive in and enjoy!
 
 *PS: If you're in the process of learning about a new sector, drop me a message. Would love to chat and learn together, if the sector and/or topic really excites me enough.*
 
