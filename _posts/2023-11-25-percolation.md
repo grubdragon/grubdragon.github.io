@@ -7,7 +7,7 @@ draft: true
 
 > I am coining the term. Read it as "How much of what I studied went in". Feel free to substitute "Textbook" by its general spirit to mean any educational medium, not limited to coursework. (Intentionally hand-wavy definition, *moving on*).
 
-Measuring what went in is the most important metric for educational content in my book(pun intended). But the education industry often misses the mark.
+Measuring what went in is the most important metric for educational content in my book(pun intended). But the education industry often misses the mark in this regard.
 
 Having sit through lectures delivered in classrooms almost all my life, a phenomenon has plagued my learning experience throughout. The one where I "switch off" after a few minutes of almost any class. And if you have been even minutely self-aware when studying, you probably know what I'm talking about - the depth of your understanding is sinking by the minute, till it drops off to sheer incomprehensibility, and you slip into a daydream. Nothing further percolates into your brain.
 
@@ -62,5 +62,5 @@ Learning might be a struggle today, but nothing worth achieving was ever easy.
 [^huberman]: Not able to pin down the exact podcast, but a related one here: [Huberman Lab: Understand & Improve Memory Using Science-Based Tools](https://www.youtube.com/watch?v=szqPAPKE5tQ).
 [^momtest]: [The Mom Test: How to talk to customers, Rob Fitzpatrick](https://www.momtestbook.com/).
 [^books]: This advice is not all encompassing. Please don't follow if you aren't seriously ill like me.
-[^meditation]: Not personally verifiable, but anecdotally it seems to work. Personally, been procrastinating on this like a fool.
+[^meditation]: Not personally verifiable, but anecdotally it seems to work. Personally, been procrastinating on this like a fool. Medito is available [here](https://meditofoundation.org/).
 [^rl]: [Exploration-exploitation dilemma on Wikipedia](https://en.wikipedia.org/wiki/Exploration-exploitation_dilemma).
