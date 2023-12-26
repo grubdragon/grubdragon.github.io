@@ -57,7 +57,7 @@ In conclusion, while learning can be tough, remember that valuable achievements 
 [^deepwork]: [Deep Work: Rules for Success in a Distracted World](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/).
 [^gnawing]: Wrote about this gnawing pain in my earlier blog post, ["Why I Write"]({{ 'writing' | relative_url }}).
 [^doomscroll]: Doomscroll: To spend excessive time online scrolling through news or other content that makes one feel sad, anxious, angry, etc.
-[^attncurrency]: I like this characterization of attention - you can boil it down to money concepts. Attention rich and poor - one with lots of attention reserves and one with less. Improving your attention could be thought of as increasing your earning potential. Much like money, you need to pay attention to the top priority in your life. This leaves some leeway for spending your attention intentionally on recreation. Going broke would be similar to letting your attention be expended without thought 24x7.
+[^attncurrency]: I like this characterization of attention - you can boil it down to money concepts. Attention rich and poor, both exist. Improving your attention is akin to increasing your $$/hr. You need to pay attention to the top priority in your life. Have some leeway to spend it on recreation.
 [^writing]: Again a callback to ["Why I Write"]({{ 'writing' | relative_url }}).
 [^huberman]: Not able to pin down the exact podcast, but a related one here: [Huberman Lab: Understand & Improve Memory Using Science-Based Tools](https://www.youtube.com/watch?v=szqPAPKE5tQ).
 [^momtest]: [The Mom Test: How to talk to customers, Rob Fitzpatrick](https://www.momtestbook.com/).
