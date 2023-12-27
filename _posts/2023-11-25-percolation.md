@@ -47,11 +47,11 @@ Ideally, using courses to learn is the best, but what if none are available? Unf
 
 Sometimes, you just have to struggle with it. Do a bit. Take a break. Do a bit more.
 
-Eventually, how do you get out of this struggle? Meditate. Pick up Medito, start meditating everyday[^meditation]. Start improving your attention span. At the same time build a love for learning(and its constituents i.e. reading or watching courses). Don't necessarily start at what would be best for you - you could start at what would be entertaining, relatable and easy to watch. It could be a 10xer as well. The key to picking correctly is selecting content you find to pick up.
+Eventually, how do you get out of this struggle? Meditate. Pick up Medito, start meditating everyday[^meditation]. Start improving your attention span. At the same time build a love for learning(and its constituents i.e. reading or watching courses). Don't necessarily start at what would be best for you - you could start at what would be entertaining, relatable and easy to watch. It could be a 10xer as well. The key to picking correctly is selecting content you are motivated to start - well begun is half done!
 
-In conclusion, while learning can be tough, remember that valuable achievements demand effort - you ought to embrace it. Start today - immerse yourself in a topic you love through your favorite medium. The rewards of continuous learning await, so dive in and enjoy!
+I trust you found value in this. Now, feel free to explore a topic that sparks your curiosity using your preferred medium. It's time to dive in and enjoy the journey!
 
-*PS: If you're in the process of learning about a new sector or thinking about doing so, drop me a message. Socials below :point_down:*
+*PS: If you're in the process of learning about a new sector/topic or thinking about doing so, do drop me a message. The same goes for feedback on this post. Socials below :point_down:*
 
 [^jee]: It is challenging to explain the kind of work required from an aspirant. The Viral Fever's Kota Factory does a phenomenal job at depicting what the median JEE aspirant's life looks like. It's available on [Netflix](https://www.netflix.com/in/title/81249783) and Season 1 is on [YouTube](https://www.youtube.com/playlist?list=PLTB0eCoUXErb7pV0Sj1hXWrxerSZX1qgh).
 [^deepwork]: [Deep Work: Rules for Success in a Distracted World](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/).
