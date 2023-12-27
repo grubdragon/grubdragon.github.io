@@ -5,7 +5,7 @@ permalink: /percolation/
 draft: true
 ---
 
-> I am coining the term. Read it as "How much of what I studied did I really understand". Feel free to substitute "Textbook" by its general spirit to mean any educational medium, not limited to coursework. 
+> I am coining the term. Translate it as "How much of what I studied did I really understand". Feel free to substitute "Textbook" by its general spirit to mean any educational medium, not limited to coursework. 
 
 Measuring what was absorbed is the most important metric for educational content in my book(pun intended). But the education industry frequently falls short in this regard.
 
