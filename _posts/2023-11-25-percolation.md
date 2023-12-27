@@ -51,7 +51,7 @@ Eventually, how do you get out of this struggle? Meditate. Pick up Medito, start
 
 In conclusion, while learning can be tough, remember that valuable achievements demand effort - you ought to embrace it. Start today - immerse yourself in a topic you love through your favorite medium. The rewards of continuous learning await, so dive in and enjoy!
 
-*PS: If you're in the process of learning about a new sector, drop me a message. Would love to chat and learn together, if the sector and/or topic really excites me enough.*
+*PS: If you're in the process of learning about a new sector or thinking about doing so, drop me a message. Let's chat! Socials below :point_down:*
 
 [^jee]: It is challenging to explain the kind of work required from an aspirant. The Viral Fever's Kota Factory does a phenomenal job at depicting what the median JEE aspirant's life looks like. It's available on [Netflix](https://www.netflix.com/in/title/81249783) and Season 1 is on [YouTube](https://www.youtube.com/playlist?list=PLTB0eCoUXErb7pV0Sj1hXWrxerSZX1qgh).
 [^deepwork]: [Deep Work: Rules for Success in a Distracted World](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/).
