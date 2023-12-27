@@ -59,7 +59,7 @@ I trust you found value in this. Now, feel free to explore a topic that sparks y
 [^doomscroll]: Doomscroll: To spend excessive time online scrolling through news or other content that makes one feel sad, anxious, angry, etc.
 [^attncurrency]: I like this characterization of attention - you can boil it down to money concepts. Attention rich and poor, both exist. Improving your attention is akin to increasing your $$/hr. You need to pay attention to the top priority in your life. Have some leeway to spend it on recreation.
 [^writing]: Again a callback to ["Why I Write"]({{ 'writing' | relative_url }}).
-[^huberman]: [Goals Toolkit: How to Set & Achieve Your Goals | Huberman Lab Podcast](https://www.youtube.com/watch?v=CrtR12PBKb0).
+[^huberman]: [Goals Toolkit: How to Set & Achieve Your Goals, Huberman Lab Podcast](https://www.youtube.com/watch?v=CrtR12PBKb0).
 [^momtest]: [The Mom Test: How to talk to customers, Rob Fitzpatrick](https://www.momtestbook.com/).
 [^books]: This advice is not all encompassing. Please don't follow if you aren't seriously ill like me.
 [^meditation]: Not personally verifiable, but anecdotally it seems to work. Personally, been procrastinating on this like a fool. Medito is available [here](https://meditofoundation.org/).
