@@ -49,7 +49,7 @@ Sometimes, you just have to struggle with it. Do a bit. Take a break. Do a bit m
 
 Eventually, how do you get out of this struggle? Meditate. Pick up Medito, start meditating everyday[^meditation]. Start improving your attention span. At the same time build a love for learning(and its constituents i.e. reading or watching courses). Don't necessarily start at what would be best for you - you could start at what would be entertaining, relatable and easy to watch. It could be a 10xer as well. The key to picking correctly is selecting content you are motivated to start - well begun is half done!
 
-I trust you found value in this. Now, feel free to explore a topic that sparks your curiosity using your preferred medium. It's time to dive in and enjoy the journey!
+I trust you found value in this. Now, feel free to explore a topic that sparks your curiosity through your preferred medium. It's time to dive in and enjoy the journey!
 
 *PS: If you're in the process of learning about a new sector/topic or thinking about doing so, do drop me a message. The same goes for feedback on this post. Socials below :point_down:*
 
