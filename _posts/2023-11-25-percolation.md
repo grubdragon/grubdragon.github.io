@@ -2,7 +2,6 @@
 layout: post
 title: Textbook Percolation
 permalink: /percolation/
-draft: true
 ---
 
 > I am coining the term. Translate it as "How much of what I studied did I really understand". Feel free to substitute "Textbook" by its general spirit to mean any educational medium, not limited to coursework. 
