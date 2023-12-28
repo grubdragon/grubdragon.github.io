@@ -43,7 +43,7 @@ I've written about writing as an idea formulator[^writing], but it is barely a t
 
 Huberman, in his research view of goal setting[^huberman], discusses how evolutionarily, we engage our neural circuitry in a significantly distinct manner when writing with a pen or pencil vis-a-vis typing on a phone with our thumbs. This distinction is noteworthy, especially considering that typing on a phone is a relatively recent invention compared to traditional writing. 
 
-My thesis here is twofold. First, learning is substaintially curtailed in both kinds of typing(on a laptop as well as a phone) for reasons springing out of neural engagement. Second, writing and typing are done at two VERY different WPMs. Average writing speeds for college students are probably around 20 WPM, but for typing is much higher around 50+ WPM(personal numbers). This gives you time to actually **mull over what you are writing**.
+My thesis here is twofold. First, learning is substaintially curtailed in both kinds of typing(on a laptop as well as a phone) for reasons springing out of neural engagement. Second, writing and typing are done at two VERY different WPMs. Average writing speeds for college students are probably around 15-20 WPM, but for typing is much higher around 50+ WPM(roughly my personal numbers). This gives you time to **mull over what you are writing**. These extra brain cycles are the magic that map your newly acquired information around and within your existing foundations of knowledge.
 
 Personally, I believe hand written notes from video lectures have been key for my learning, especially since we got video lectures directly from the source during the COVID lockdown. 
 
