@@ -3,6 +3,8 @@
   <meta name='viewport' content='width=device-width, initial-scale=1'>
   {% seo %}
 
+  <meta property="og:image" content='{{ '/assets/favicon_io/android-chrome-512x512.png' | relative_url }}'>
+
   {% case site.blog_theme %}
     {% when 'light' %}
       <link rel='stylesheet' href='{{ '/assets/light.css' | relative_url }}'>
