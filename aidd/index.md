@@ -10,6 +10,11 @@ permalink: /aidd/
 
 **Plan:** (a)read a paper a week, (b)synthesize the crux and results (c)implement (d)reproduce results.
 
+**Special Notes:**
+1. Papers may be removed from the list
+2. Very old papers likely won't be implemented
+3. GPU constraints could prevent (d)
+4. Likely using Colab for Code. Not looking at original implementation.
 
 #### Foundations of Machine Learning:
 
