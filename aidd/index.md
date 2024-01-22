@@ -1,12 +1,14 @@
 ---
 layout: page
-title: AI Deep Dive
+title: AI DD
 permalink: /aidd/
 ---
 
-I am feeling a little rusty on my AI skills, it has been a while. Preparing for a remedial deep dive from the basics. 
+# AI Deep Dive
 
-The plan: (a)read a paper a week, (b)synthesize the crux and results (c)implement (d)reproduce results.
+**Context:** I am feeling a little rusty on my AI skills, it has been a while. Preparing for a remedial deep dive from the basics. 
+
+**Plan:** (a)read a paper a week, (b)synthesize the crux and results (c)implement (d)reproduce results.
 
 Here's the growing list
 
