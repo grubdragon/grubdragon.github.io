@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI DD
+title: AIdd
 permalink: /aidd/
 ---
 
