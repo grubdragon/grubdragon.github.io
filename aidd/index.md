@@ -13,7 +13,7 @@ permalink: /aidd/
 
 #### Foundations of Machine Learning:
 | Name | Link | Write Up | Code |
-|------|------|----------|------|
+|---|---|---|---|
 | Rosenblatt, F. (1958). "The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain." | | | |
 | Widrow, B., & Hoff, M. E. (1960). "Adaptive Switching Circuits." | | | |
 | Cover, T. M., & Hart, P. E. (1967). "Nearest Neighbor Pattern Classification." | | | |
