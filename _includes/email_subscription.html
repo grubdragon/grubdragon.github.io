@@ -1,24 +1,19 @@
-<div class="max-w-md mx-auto mt-8 p-6 bg-white rounded-md shadow-md">
+<div class="subscription-form max-w-2xl mx-auto mt-8 p-6 bg-white rounded-md shadow-md">
 
   <!-- Prompt for Staying Up to Date -->
-  <p class="mb-4 text-gray-700 text-sm text-center">Subscribe to be notified of new posts.</p>
+  <p class="subscription-text text-center mb-4">Subscribe to be notified of new posts.</p>
 
   <!-- Email Subscription Form -->
-  <form id="emailForm" class="flex flex-col items-center space-y-4">
-    <input type="email" id="email" name="email" class="border p-2 rounded-md text-sm" placeholder="Your Email" required>
-    <button type="button" onclick="submitForm()" class="bg-blue-500 text-white px-4 py-2 rounded-md text-sm">Subscribe</button>
+  <form id="emailForm" class="subscription-form__container flex flex-col items-center space-y-4">
+    <input type="email" id="email" name="email" class="subscription-input" placeholder="Your Email" required>
+    <button type="button" onclick="submitForm()" class="subscription-button">Subscribe</button>
   </form>
 
 </div>
 
 <script>
   function submitForm() {
-      // Get the email value
       var email = document.getElementById('email').value;
-
-      // Open the URL with the user's email
       window.open(`https://docs.google.com/forms/d/e/1FAIpQLSeq_qlwqRbQKuMzUI7hJ_3lK3WqPdIL0_EscHfSw4GzsdB6_Q/formResponse?usp=pp_url&entry.274326113=${email}`, '_blank');
   }
 </script>
-
-
