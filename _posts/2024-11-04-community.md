@@ -8,7 +8,7 @@ permalink: /community/
 
 I am back to writing.
 
-Recently, I watched this interesting interview at the All-In Summit 2024, where Michael Ovitz talks about Hollywood and how he introduced technology to the film industry. They had an interesting discussion about AI and how it will change the film industry.
+Recently, I watched this interesting interview at the All-In Summit 2024, where Michael Ovitz talks about Hollywood and how he introduced technology to the film industry.[^ovitz] They had an interesting discussion about AI and how it will change the film industry.
 
 The discussion point on hyperpersonalized media struck me - how AI will be able to generate individually personalized media. Within that, it was so well articulated that watching Netflix is more a community experience, rather than an individual one. Multitude of people watch the same thing(something _probably_ hyped up by marketing) around the same time, and it becomes an asynchronous shared experience. 
 
@@ -16,7 +16,7 @@ I think this is a great argument against AI hyperpersonalization. Are we really 
 
 AI today is a top-tier generalist. It creates an averaged understanding of a task using data it is exposed to. If we are to believe Sam Altman, AGI is going to be a median-human in any field - be it in medicine, software engineering, or any other field.[^altman]
 
-When the Besties interviewed Peter Thiel at All-In Summit, he talked about how AI is great at the "woke stuff", which is the current consensus on what is socially acceptable way of thinking.[^thiel] An unconventional wisdom he dropped in the interview was that if you're looking to be a an actor, you should probably target being slightly racist or sexist, because that's what will make you stand out. Hilarious, but also a perfectly viable strategy. One could argue that comedy group AIB's success is built on this strategy; involving expletives in their act made them stand out.
+When the Besties interviewed Peter Thiel at All-In Summit, he talked about how AI is great at the "woke stuff", which is the current consensus on what is socially acceptable way of thinking.[^thiel] An unconventional wisdom he dropped in the interview was that if you're looking to be a an actor, you should probably target being slightly racist or sexist, because that's what will make you stand out. Hilarious, but also a perfectly viable strategy. One could argue that comedy group AIB's success is built on this strategy; involving expletives in their act made them stand out.[^aib]
 
 We just love our own personal choices in music and movies. We want to be unique, we want to be different. And yet, we crave community like nothing else. A subtle thing I personally noticed was after loving a particular movie or tv show, I would always try to find out others who liked it - redditors, tv show forums, etc. The discussions that followed were so much more fun than the content itself. And invariably, the dopamine hit of being in a club of like-minded people who loved the same things I do is comparable if not greater than the dopamine hit I get from the content itself. And don't we all push all our friends to watch the same things we do? I think that's a testament to how deeply entrenched our need for community is.
 
