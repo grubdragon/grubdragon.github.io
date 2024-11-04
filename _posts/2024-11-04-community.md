@@ -31,6 +31,6 @@ I think motivation for everything we do is derived from the community. The peopl
 If you've read this far, you're probably part of our little community ;)
 
 [^ovitz]: [All-In Summit 2024](https://www.youtube.com/watch?v=fBGH_Hq0Bm4).
-[^altman]: [OpenAI CEO Sam Altman | AI for the Next Era](https://www.youtube.com/watch?v=WHoWGNQRXb0).
-[^thiel]: [Peter Thiel | All-In Summit 2024](https://www.youtube.com/watch?v=SYRunzR9fbk).
+[^altman]: [OpenAI CEO Sam Altman, AI for the Next Era](https://www.youtube.com/watch?v=WHoWGNQRXb0).
+[^thiel]: [Peter Thiel, All-In Summit 2024](https://www.youtube.com/watch?v=SYRunzR9fbk).
 [^aib]: [AIB](https://www.youtube.com/@allindiabakchod/).
