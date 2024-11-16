@@ -2,6 +2,7 @@
 layout: post
 title: We love community
 permalink: /community/
+draft: true
 ---
 
 > AI hyperpersonalization, homogenity of crowds, and the future of community.
@@ -27,6 +28,10 @@ One could invert the question - are there scenarios where community becomes irre
 Or maybe the character of community itself evolves. We've seen this happen with mobile phones. We are all so excessively connected that the meaning of that connection is diluted - however the checkmark of being connected remains ticked. AI hyperpersonalization might follow a similar path. In the future, we might all watch Batman XXXII, but it would be a slightly different version of it depending on who's watching it. And we'd be enjoying the nuances of the difference, while still having the checkmark of being in the club of Batman fans. The community aspect would still exist, however its' meaning would be diluted by the hyper-division of tastes and it would be reduced to our automatic addition to "DC Die Hards Ultra" on "FriendNet".
 
 I think motivation for everything we do is derived from the community. The people we don't want to disappoint, the people we want to impress, the people we want to be like. I think at some primal level, we are hardwired to be permanently attuned to the love and hate of the people that surround us and matter to us. It's been of interest to me on how to engineer this to be a force for personal gain. Somehow, I think the hate part is so much tougher to engineer - simply because degrees of hate required to be felt are so much higher to make a change.
+
+Let's take the example of losing weight. If you're looking to lose weight, you're probably motivated by the people who matter to you or your social circle. If you're successful, they'll be impressed. If you're not, they'll be disappointed. The hate part comes when you don't lose weight, and you're made fun of by the same people. And so often, we aren't able to do it - their disappointment and ridicule is so often not too much to bear.
+
+I think we would be so much better off if we could engineer this to be a force for personal gain. But it eludes me how to do it.
 
 If you've read this far, you're probably part of our little community ;)
 
